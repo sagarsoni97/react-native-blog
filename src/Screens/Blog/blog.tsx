@@ -4,10 +4,10 @@ import {
     View,
     StyleSheet,
     Image,
-    ImageBackground,
     FlatList,
     TouchableWithoutFeedback
-} from 'react-native';
+} from 'react-native'; 
+
 
 // Reuseable Component
 import { CustomInput, CustomButton, Header } from '../../Component/Index'
